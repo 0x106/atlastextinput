@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "Jordan Campbell" => "jordan@jordancampbell.org" }
   s.ios.deployment_target = '11.0'
   s.ios.vendored_frameworks = 'atlastextinput.framework'
-  s.source            = { :http => 'https://github.com/Jordan-Campbell/test/blob/master/frameworktest.zip?raw=true' }
+  s.source            = { :http => 'https://github.com/Jordan-Campbell/atlastextinput/blob/master/atlastextinput.zip?raw=true' }
   s.exclude_files = "Classes/Exclude"
 
 end
