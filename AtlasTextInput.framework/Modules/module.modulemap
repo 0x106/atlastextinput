@@ -1,0 +1,6 @@
+framework module AtlasTextInput {
+  umbrella header "AtlasTextInput.h"
+
+  export *
+  module * { export * }
+}
